@@ -2,4 +2,4 @@ streamlit
 pandas
 tensorflow
 scikit-learn
-pickle
+
